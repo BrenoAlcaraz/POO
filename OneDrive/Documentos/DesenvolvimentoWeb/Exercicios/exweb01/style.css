@@ -1,0 +1,8 @@
+body {
+    background-color : rgb(255, 255, 255);
+}
+p {
+    color: rgb(255, 0, 0);
+    width: 3000px; 
+    border: 5 px solid rgb(68, 255, 0);
+}
