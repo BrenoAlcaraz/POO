@@ -1,5 +1,10 @@
-p {
+html {
+    font-family: "Pacifico";
+}
+p {   
+    color: red;
     background-color: black;
+    font-size: 16px ;
 }
 
 #teste1{

@@ -1,0 +1,32 @@
+html {
+    font-family: "Pacifico";
+}
+
+#div1{
+    width: 70px;
+    background-color: blueviolet;
+}
+
+#div2{
+    width: 2em;
+}
+
+span{
+    background-color: aqua;
+    font-weight: bold;
+    color: red;
+}
+
+h1{
+    font-size: 50 px;
+}
+
+p {
+    color: red;
+    background-color: black;
+    font-size: 16px;
+}
+
+#teste1 {
+    background-color: brown;
+}
