@@ -1,0 +1,7 @@
+23123213;321312312;313321.0;312312321
+123;alterando;1000.0;1498
+31231231;produto bom;15.0;20
+123213123;produtinho;50.0;100
+125;produto novo muito bom alterado;59.0;999
+12379;produto top;80.0;60
+129;dasdasasd;20.0;197
